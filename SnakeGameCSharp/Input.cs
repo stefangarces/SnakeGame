@@ -8,5 +8,6 @@ namespace SnakeGameCSharp
 {
     class Input
     {
+
     }
 }
